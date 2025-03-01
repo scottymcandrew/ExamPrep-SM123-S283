@@ -1,0 +1,79 @@
+How do lobate scarps form on Mercury and what do they tell us about planetary evolution?	Lobate scarps on Mercury are cliff-like structures formed by thrust faults, where one section of crust has been pushed over another. They form when Mercury's interior cooled and contracted, causing the rigid outer shell to accommodate the smaller volume by wrinkling and fracturing. The global distribution of these scarps indicates that Mercury contracted globally by 1-2 km in radius since the formation of its crust. This significant contraction is much greater than on other terrestrial planets and suggests Mercury cooled more rapidly and thoroughly, likely due to its small size and proximity to the Sun.
+What is the significance of chirality in the context of life's building blocks?	Chirality refers to molecules that exist as non-superimposable mirror images (like left and right hands). Significance for life: 1) Earth life uses almost exclusively L-amino acids and D-sugars; 2) Abiotic processes generally produce equal mixtures of both; 3) Homochirality (predominance of one form) is considered a biosignature; 4) Finding homochiral organic molecules on other worlds would suggest biological origins.
+What defines the "habitable zone" around a star, and what factors affect a planet's habitability beyond orbital distance?	The habitable zone is the region around a star where a planet with sufficient atmospheric pressure could maintain liquid water on its surface. Factors beyond orbital distance: 1) Atmospheric composition and pressure; 2) Planetary mass and gravity; 3) Magnetic field strength; 4) Planetary rotation rate; 5) Surface-ocean distribution; 6) Internal heat and geological activity; 7) Stellar activity and radiation environment; 8) Planetary system stability.
+What are biosignatures and how might we detect them on exoplanets?	Biosignatures are observable features that suggest the presence of life. Detection methods include: 1) Atmospheric spectroscopy for gases in disequilibrium (e.g., O2 + CH4); 2) Surface spectral features like the "red edge" of vegetation; 3) Temporal variations in atmospheric composition; 4) Isotopic fractionation patterns; 5) Detection of complex organic compounds. Current and future telescopes use transit spectroscopy, direct imaging, and interferometry to search for these features.
+How did Earth's atmosphere evolve, and what role did life play in its composition?	Evolution stages: 1) Primary atmosphere (H2, He) lost quickly; 2) Secondary atmosphere from outgassing (CO2, H2O, N2); 3) Archean atmosphere with methane from early life; 4) Great Oxygenation Event (~2.4-2.0 Ga) when cyanobacteria produced O2, creating rust deposits (banded iron formations) and eventually atmospheric O2; 5) Neoproterozoic further oxygenation; 6) Modern atmosphere stabilized with nitrogen dominant and 21% oxygen.
+What is the role of carbon in supporting life?	Carbon is fundamental to life because: 1) It forms four covalent bonds, creating diverse complex molecules; 2) It readily bonds with itself to form chains, rings, and branched structures; 3) Carbon-carbon bonds are stable but can be broken by biological processes; 4) It forms stable bonds with hydrogen, oxygen, nitrogen, sulfur, and phosphorus (the other main elements of life); 5) Carbon compounds can be both hydrophilic and hydrophobic, enabling cell membrane formation; 6) Its compounds can store and release energy efficiently; 7) It forms the backbone of proteins, nucleic acids, carbohydrates, and lipids.
+What is the CHNOPS acronym and why are these elements important for life?	CHNOPS stands for Carbon, Hydrogen, Nitrogen, Oxygen, Phosphorus, and Sulfur – the six most abundant elements in living organisms. Their importance:
+- Carbon: Forms the backbone of organic molecules
+- Hydrogen: Forms bonds with carbon and provides protons for energy transfer
+- Nitrogen: Essential for proteins, nucleic acids, and DNA
+- Oxygen: Critical for cellular respiration and forms bonds with carbon and hydrogen
+- Phosphorus: Key component of DNA, RNA, ATP (energy molecule), and cell membranes
+- Sulfur: Important in proteins (forms disulfide bridges) and some vitamins
+What is the Miller-Urey experiment and what did it demonstrate?	The Miller-Urey experiment (1953) simulated hypothetical early Earth conditions to test if organic compounds could form spontaneously. It involved: 1) A sealed apparatus containing water (ocean), methane, ammonia, and hydrogen (atmosphere); 2) Electrical discharges (lightning); 3) Circulation through cooling and heating cycles. After one week, it produced various organic compounds including amino acids (building blocks of proteins). This demonstrated that complex organic molecules necessary for life could form from simple inorganic precursors under plausible early Earth conditions, supporting the idea of abiotic chemical evolution preceding biological evolution.
+What is extremophile life and why is it relevant to astrobiology?	Extremophiles are organisms that thrive in physically or geochemically extreme conditions hostile to most life. Types include:
+- Thermophiles/hyperthermophiles (high temperature, 45-122°C)
+- Psychrophiles (cold environments, below 15°C)
+- Halophiles (high salinity)
+- Acidophiles/alkaliphiles (extreme pH)
+- Barophiles (high pressure)
+- Radioresistant organisms (high radiation)
+
+They're relevant to astrobiology because: 1) They expand our understanding of life's environmental limits; 2) Many environments on other planets/moons (Mars, Europa, Enceladus) match conditions where extremophiles thrive on Earth; 3) Early life on Earth likely resembled modern extremophiles; 4) They demonstrate life's adaptability and potential biochemical diversity elsewhere; 5) They inform our search targets and instruments for detecting extraterrestrial life.
+What is panspermia and what evidence supports or challenges this hypothesis?	Panspermia is the hypothesis that life exists throughout the Universe and is distributed by meteoroids, asteroids, comets, and planetoids, or potentially by spacecraft (directed panspermia).
+
+Supporting evidence: 1) Extremophiles can survive in space-like conditions; 2) Organic compounds exist in meteorites, comets, and interstellar medium; 3) Rocks can be exchanged between planets (e.g., Martian meteorites); 4) Some bacteria and tardigrades can survive radiation, vacuum, and extreme temperatures; 5) Life appeared relatively early in Earth's history.
+
+Challenges: 1) Difficulty surviving long-duration space exposure, particularly radiation; 2) Atmospheric entry heating; 3) No definitive evidence of extraterrestrial biological material; 4) The origin-of-life problem is merely transferred elsewhere; 5) Alternative explanations for early Earth life exist. The hypothesis remains speculative but scientifically testable.
+What are the possible reservoirs of water on Mars today?	Water on Mars today exists as: 1) Polar ice caps (water ice beneath seasonal CO2 frost); 2) Subsurface ice extending from poles to mid-latitudes (detected by neutron spectrometry, radar, and exposed in recent impact craters); 3) Recurring slope lineae (possible seasonal briny water flows); 4) Shallow subsurface ice exposed by Phoenix lander and rover wheel tracks; 5) Adsorbed water in soil; 6) Hydrated minerals throughout the surface; 7) Possible groundwater at several kilometers depth; 8) Water vapor and ice crystals in the atmosphere.
+What was the Viking life detection experiment controversy?	The Viking missions (1976) included three life detection experiments:
+1) Labeled Release (LR): Added radioactive nutrients to soil and detected radioactive gas release
+2) Gas Exchange (GEX): Measured gases produced when soil was exposed to water and nutrients
+3) Pyrolytic Release (PR): Tested if radioactive carbon from CO2/CO was incorporated into organic compounds
+
+The controversy: The LR experiment gave positive results consistent with microbial respiration, but the other experiments showed no organic compounds, and the Gas Chromatograph Mass Spectrometer found no organic matter above parts per billion levels. The results are debated because: 1) The positive LR result could be from nonbiological chemical oxidants in the soil (like peroxides or superoxides); 2) Perchlorate (discovered later by Phoenix) could have destroyed organics during heating; 3) The experiments may not have been suitable for Martian biochemistry; 4) Contradictory results between experiments. The consensus is that the results are explained by soil chemistry rather than biology, but controversy persists.
+What is prebiotic chemistry and what are the key steps from chemistry to primitive life?	Prebiotic chemistry is the study of chemical reactions that could have led to life's emergence from non-living matter. Key steps include:
+
+1) Synthesis of basic building blocks (amino acids, nucleotides, sugars, fatty acids) from simple precursors like CH4, NH3, H2O, CO2
+2) Concentration mechanism (wet-dry cycles, mineral surfaces, hydrothermal vents)
+3) Polymerization to form macromolecules (proteins, RNA, DNA, lipids)
+4) Formation of self-organizing structures (protocells, vesicles, RNA replicators)
+5) Development of metabolic networks and energy capture systems
+6) Emergence of self-replication and information storage
+7) Natural selection at molecular level leading to increased complexity
+
+The RNA World hypothesis suggests RNA served both catalytic and genetic roles before DNA and proteins emerged. Alternative models include metabolism-first scenarios or iron-sulfur world theory centered on hydrothermal vents.
+What evidence suggests Europa and Enceladus might be habitable?	Europa (Jupiter's moon):
+1) Global subsurface liquid water ocean (100+ km deep)
+2) Induced magnetic field suggesting salty water
+3) Young surface indicating ongoing geological activity
+4) Potential chemical energy from radiation-produced oxidants reacting with reducers from the interior
+5) Tidal heating providing energy
+6) Possible hydrothermal vents at ocean floor
+7) Potential plumes of water vapor observed by Hubble
+
+Enceladus (Saturn's moon):
+1) Confirmed active plumes of water ice and vapor from south polar region
+2) Cassini directly sampled plumes, finding salts, organic compounds, silica particles
+3) Evidence of hydrothermal activity 
+4) Global subsurface ocean confirmed by libration measurements
+5) Molecular hydrogen in plumes suggesting methanogenesis is possible
+6) Chemical disequilibrium providing potential energy for life
+
+Both provide liquid water, energy sources, organic compounds, and potentially stable conditions over geological timescales.
+What is the Great Oxygenation Event and what evidence supports it?	The Great Oxygenation Event (GOE) was the period 2.4-2.0 billion years ago when Earth's atmosphere first gained significant oxygen levels due to cyanobacterial photosynthesis.
+
+Evidence includes:
+1) Banded Iron Formations (BIFs): Iron precipitated when it contacted oxygen, forming distinctive layers
+2) Red beds: Continental deposits with oxidized iron (hematite) appearing after GOE
+3) Disappearance of mass-independent sulfur isotope fractionation in rocks younger than 2.4 billion years
+4) Uraninite and pyrite disappearance from river sediments (they're only stable in low-oxygen conditions)
+5) Appearance of sulfate minerals requiring oxygen to form
+6) Carbon isotope excursions suggesting changes in carbon cycling
+7) Evolution of oxygen-using enzymes and aerobic organisms
+
+The event triggered major ecological and geological changes, including possible global glaciations ("Snowball Earth" events) due to methane removal and global cooling.
+Describe the transit photometry method for detecting exoplanets, including what planetary properties can be determined.	Transit photometry detects the slight dimming of a star when an exoplanet passes in front of it. Properties that can be determined: 1) Orbital period from transit timing; 2) Planet radius from transit depth (ΔF/F ≈ (Rp/Rs)²); 3) Orbital inclination from transit duration; 4) Atmospheric composition from transmission spectroscopy during transit; 5) Temperature and albedo from secondary eclipse (when planet passes behind star).
+Explain the radial velocity method for detecting exoplanets, including its limitations.	The radial velocity method detects the slight "wobble" of a star caused by an orbiting planet's gravitational pull, measuring periodic Doppler shifts in stellar spectral lines. Limitations: 1) Only measures m·sin(i), giving minimum mass unless inclination is known; 2) Biased toward massive planets close to their stars; 3) Requires stable stars with sharp spectral features; 4) Limited by stellar activity that can mimic or mask planet signals; 5) Precision currently limited to ~0.1 m/s, challenging for Earth-mass planets.
+What exoplanet types have been discovered, and how do they compare to planets in our Solar System?	Types include: 1) Hot Jupiters: Gas giants orbiting very close to their stars, no Solar System equivalent; 2) Mini-Neptunes: Between Earth and Neptune in size, common in other systems but absent in ours; 3) Super-Earths: ~1.5-2 Earth radii, no Solar System equivalent; 4) Earth-sized planets: Similar to Earth, Venus, Mars; 5) Terrestrial planets in close orbits around red dwarfs, unlike our system. Overall, the Solar System lacks the close-in large planets and compact systems common elsewhere, suggesting it's somewhat atypical.
